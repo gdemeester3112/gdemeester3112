@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+** This is where i will be learning to code **
 <!--
 **gdemeester3112/gdemeester3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
